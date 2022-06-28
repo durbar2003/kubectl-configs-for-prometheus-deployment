@@ -1,0 +1,6 @@
+mongodb:
+  uri: "mongodb://monogdb-service:27017"
+
+serviceMonitor:
+  additionalLabels:
+    release: prometheus
