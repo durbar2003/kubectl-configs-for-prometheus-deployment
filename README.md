@@ -1,0 +1,1 @@
+# kubectl-configs-for-prometheus-deployment
