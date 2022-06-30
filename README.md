@@ -1,1 +1,1 @@
-# kubectl-configs-for-prometheus-deployment
+# kubernetes-configs-for-prometheus-deployment
